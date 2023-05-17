@@ -21,9 +21,13 @@ body {
   width: 265px;
   border-radius: 3px;
 }
+.b-w {
+  display: flex;
+  gap: 3px;
+}
 
 .black-white {
-  width: 800px;
+  width: 400px;
   border-radius: 3px;
 }
 
@@ -57,7 +61,7 @@ h1 {
   }
 
   .black-white {
-    width: 740px;
+    width: 360px;
     border-radius: 3px;
   }
 }
@@ -83,7 +87,7 @@ h1 {
   }
 
   .black-white {
-    width: 400px;
+    width: 200px;
     border-radius: 3px;
   }
 
@@ -127,6 +131,12 @@ h1 {
   .kupala {
     width: 350px;
     border-radius: 3px;
+  }
+
+  .b-w {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3px;
   }
 
   .black-white {
@@ -175,6 +185,12 @@ h1 {
   .kupala {
     width: 300px;
     border-radius: 3px;
+  }
+
+  .b-w {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3px;
   }
 
   .black-white {
