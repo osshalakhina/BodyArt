@@ -23,7 +23,7 @@ body {
 }
 
 .black-white {
-  height: 510px;
+  width: 800px;
   border-radius: 3px;
 }
 
@@ -57,7 +57,7 @@ h1 {
   }
 
   .black-white {
-    height: 460px;
+    width: 740px;
     border-radius: 3px;
   }
 }
@@ -83,7 +83,7 @@ h1 {
   }
 
   .black-white {
-    height: 250px;
+    width: 400px;
     border-radius: 3px;
   }
 
@@ -129,14 +129,8 @@ h1 {
     border-radius: 3px;
   }
 
-  .b-w {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 5px;
-  }
-
   .black-white {
-    height: 400px;
+    width: 350px;
     border-radius: 3px;
     margin: auto;
   }
@@ -183,14 +177,8 @@ h1 {
     border-radius: 3px;
   }
 
-  .b-w {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 5px;
-  }
-
   .black-white {
-    height: 350px;
+    width: 300px;
     border-radius: 3px;
     margin: auto;
   }
